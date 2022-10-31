@@ -6,3 +6,6 @@ def funcion():
 
 def funcionramaprueba():
     print("ok")
+    
+def lineanueva():
+    print("linea nueva")
