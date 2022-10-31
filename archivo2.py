@@ -1,4 +1,5 @@
 print("vacio")
 
 def funcion():
-    pass
+    suma = 4+5
+    print(suma)
