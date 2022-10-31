@@ -9,3 +9,6 @@ def funcionramaprueba():
     
 def lineanueva():
     print("linea nueva")
+
+def otralinea():
+    print("otra nueva")
